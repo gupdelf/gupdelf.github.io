@@ -1,0 +1,22 @@
+{
+  "name": "gupdelf.github.io",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gupdelf/gupdelf.github.io.git"
+  },
+  "author": "gupdelf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gupdelf/gupdelf.github.io/issues"
+  },
+  "homepage": "https://github.com/gupdelf/gupdelf.github.io#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
